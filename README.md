@@ -1,2 +1,2 @@
-[Demo](https://dmitriysmolin.github.io/era-glonass/dist/)
+[Demo](https://dmitriysmolin.github.io/test-only/dist/)
 
